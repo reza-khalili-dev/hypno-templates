@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'yekan';
+    src: url('../webfonts/YekanBakhFaNum-Light.eot');
+    src: url('../webfonts/YekanBakhFaNum-Light.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/YekanBakhFaNum-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yekan Bakh FaNum Hairline';
+    src: url('../webfonts/YekanBakhFaNum-Hairline.eot');
+    src: url('../webfonts/YekanBakhFaNum-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/YekanBakhFaNum-Hairline.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'yekan';
+    src: url('../webfonts/webfotYekanBakhFaNum-Regular.eot');
+    src: url('../webfonts/YekanBakhFaNum-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/YekanBakhFaNum-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'yekan';
+    src: url('../webfonts/YekanBakhFaNum-Medium.eot');
+    src: url('../webfonts/YekanBakhFaNum-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/YekanBakhFaNum-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yekan Bakh FaNum Fat';
+    src: url('../webfonts/YekanBakhFaNum-Fat.eot');
+    src: url('../webfonts/YekanBakhFaNum-Fat.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/YekanBakhFaNum-Fat.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'yekan';
+    src: url('../webfonts/YekanBakhFaNum-Thin.eot');
+    src: url('../webfonts/YekanBakhFaNum-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/YekanBakhFaNum-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'yekan';
+    src: url('../webfonts/YekanBakhFaNum-Bold.eot');
+    src: url('../webfonts/YekanBakhFaNum-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/YekanBakhFaNum-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'yekan';
+    src: url('../webfonts/YekanBakhFaNum-Heavy.eot');
+    src: url('../webfonts/YekanBakhFaNum-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/YekanBakhFaNum-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
